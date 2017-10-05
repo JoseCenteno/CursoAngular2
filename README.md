@@ -1,4 +1,5 @@
-# CursoAngular2
-Curso de Angular 2 - Octubre 2017
+# Curso_Malaga_1 #
 
-Fecha: 2-5 Octubre 2017
+Curso de **Angular** en *Indra* (Málaga) 2
+
+Fecha: 2-oct / 5-oct 2017
